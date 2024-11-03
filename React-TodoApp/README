@@ -1,0 +1,61 @@
+**REACT TODO APP**
+
+The "React Todo List with Local Storage" yan ay web-based task management app na ginawa gamit yung React. Ginawa yan para matulungan ang users na ma-organize ang kanilang mga tasks nang mas maayos habang gumagamit ng local storage para sa pag-save ng data.
+
+**HOW TO RUN**
+
+STEP 1: CTRL + J to see the terminal.
+STEP 2: Insert your second folder if meron if wala naman deretso na for me it is maranan-midterms file.
+STEP 3: Now install the node_modules that we need to run react project.
+STEP 4: After you install you can run the System you created by commanding npm start.
+STEP 5: Then You're good to go see what the best todo list in the entire 3rd year smooth, clean & User friendly design.
+
+**TECH STACK**
+
+* HTML
+* React js
+* CSS3
+* Tailwind CSS
+* JSON
+
+*FEATURES*
+
+*LOCAL STORAGE INTEGRATION:*
+
+**Task data is stored in the browser's local storage, ensuring that tasks persist even after the browser is closed or refreshed.**
+
+*RESPONSIVE DESIGN:*
+
+**The application is designed to be responsive, delivering a seamless experience across various devices, including mobile phones and tablets.**
+
+*USER FRIENDLY UI:*
+
+**The React Todo App offers a clean and intuitive user interface, ensuring that users can efficiently manage their tasks.**
+
+*TASK CREATION:*
+
+**Users can easily create new tasks, task name, task description and catagory for each task.**
+
+*TASK STATUS:*
+
+**Tasks can be marked as either complete or incomplete, allowing users to monitor their progress.**
+
+*TASK DELETION:*
+
+**Remove tasks that are completed or no longer needed, maintaining a clutter-free task list.**
+
+*TASK EDIT:*
+
+**Seamlessly update task details to keep your information accurate and up-to-date.**
+
+*TASK COPY:*
+
+**Duplicate tasks to save time on creating similar entries.**
+
+*SEARCH TASKS:*
+
+**Search functionality allows you to filter tasks by name or description, making it easy to find what you need.**
+
+*TASK PROGRESS:*
+
+**Monitor your overall task progress, providing a visual representation of your accomplishments.**
